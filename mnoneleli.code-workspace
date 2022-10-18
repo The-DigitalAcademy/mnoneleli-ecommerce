@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../mnoneleli"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../mmnn"
+		},
+		{
+			"path": "../Mno-expense"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "1 New f",
+		"liveServer.settings.port": 5501
+	}
+}
